@@ -1,26 +1,5 @@
 
-//while user doesn't want to quit
 
-    // get user input: rock paper or scissors
-    // get computer input: rock paper or scissors
-    // case user rock and computer paper: computer wins
-    // case user paper and computer rock: user wins
-    // case user scissors and computer paper: user wins
-    // case user paper and computer scissors: computer wins
-    // case computer rock and user scissors: computer wins
-    // case computer scissors and player rock: player wins
-    // case computer choice equal to user choice: tie
-    // ask user if they want to quit
-    // ask if user wants to quit
-
-
-
-
-//while user input is not rock or paper or scissors
-    //get user input
-
-
-// let user_choice = "no"
 document.getElementById("rounds").value = "5";
 let userScore = 0;
 
